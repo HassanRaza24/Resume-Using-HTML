@@ -7,4 +7,4 @@ The project represents my personal resume in web format and includes all essenti
 🚀 Live Preview
 
 You can view the project live here:
-👉 (Add your GitHub Pages link here if you deploy it)
+👉 https://resume-using-html-two.vercel.app/
